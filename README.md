@@ -14,3 +14,4 @@ Requirements:
 ![Example Case](iso-inside.jpg)
 ![Example Case](iso-outside.jpg)
 ![Example Case](iso.jpg)
+![Example Case](CJMU-232H.jpg)
