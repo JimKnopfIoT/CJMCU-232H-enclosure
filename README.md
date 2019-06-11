@@ -3,7 +3,7 @@
 
 ## 3D Case
 
-The enclosure consists of 2 parts which are screwed together. 
+The enclosure consists of 2 parts which held together by itself. 
 
 Requirements:
 * 3D printer 
